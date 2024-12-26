@@ -1,0 +1,11 @@
+tensorflow==2.15
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python-headless
+scikit-learn
+keras
+flask
+flask-cors
+pillow
