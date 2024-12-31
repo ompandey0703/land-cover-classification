@@ -16,7 +16,7 @@ const AboutPage = () => {
           model predicts among 10 different classes that are AnnualCrop, Forest,
           HerbaceousVegetation, Highway, Industrial, Pasture, PermanentCrop,
           Residential, River and SeaLake.The models include Simple CNN, VGG 16,
-          and VGG 19, among others. The VGG 19 model has the highest accuracy of
+          and VGG 19. Among others, the VGG 19 model has the highest accuracy of
           98.25%.
         </p>
         <div className="flex space-x-4 justify-center">

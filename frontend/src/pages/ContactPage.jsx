@@ -57,7 +57,7 @@ const ContactPage = () => {
     <div className="min-h-screen bg-gray-100 flex flex-col items-center justify-center font-roboto p-4">
       <ToastContainer />
       <div className="bg-white p-8 rounded shadow-md max-w-md w-full">
-        <h1 className="text-3xl font-bold mb-4">Contact Us</h1>
+        <h1 className="text-3xl font-bold mb-4">Contact Me</h1>
         <form id="contact-form" onSubmit={handleSubmit}>
           <div className="mb-4">
             <label className="block text-gray-700 mb-2" htmlFor="name">
